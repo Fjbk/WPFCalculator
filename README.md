@@ -1,2 +1,2 @@
 # WPFCalculator
-Test repository for a basic calculator made in WPF
+Basic WPF calculator til aflevering (1. semester)
